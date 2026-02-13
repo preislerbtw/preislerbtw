@@ -6,10 +6,6 @@ Hi, I’m Jorge, I’m a passionate self-learning software developer with hands-
 
 Skills
 
-Languages:
-Front-End: HTML, CSS, JavaScript 
-Back-End: Java, Python, C++/C (Learning)
-
+Languages: Java, Python, C++/C (Learning) and HTML, CSS, JavaScript 
 Version Control: Git
-
 Software Development: Agile methodologies
