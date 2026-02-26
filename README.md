@@ -10,6 +10,6 @@ Hi, I’m Jorge, I’m a passionate self-learning software developer with hands-
 
 ## Skills
 
-- Languages: Java, Python, C++ and C#(Learning)
+- Languages: Java, Python, C++, Javascript, HTML and CSS
 - Tools: Git and GitHub 
 
