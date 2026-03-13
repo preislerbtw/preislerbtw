@@ -3,15 +3,13 @@
 - Computer Science student
 - Currently learning how to build and understand software and systems.
 
----
 
 ## About Me
 
 - Computer Science Student
 - Interested in software development, algorithms, and computer systems
-  
----
 
+  
 ## Skills
 
 - Languages: Java, Python, C++
