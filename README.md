@@ -1,4 +1,7 @@
-# Jorge Preisler's Portfolio
+# Hi, I'm Jorge
+---
+Computer Science student
+Currently learning how to build, break, and understand software and systems.
 
 ---
 
