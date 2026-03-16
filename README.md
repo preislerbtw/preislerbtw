@@ -12,7 +12,7 @@
   
 ## Skills
 
-- Languages: Java, Python, C++
+- Languages: Java, Python, C++/C
 - Tools: Git and GitHub
 
 ## What i'm learning now
