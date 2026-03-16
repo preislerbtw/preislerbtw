@@ -7,7 +7,7 @@
 ## About Me
 
 - Computer Science Student
-- Interested in software development, algorithms, and computer systems
+- Interested in software development
 
   
 ## Skills
