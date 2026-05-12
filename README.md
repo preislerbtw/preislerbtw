@@ -1,6 +1,6 @@
 ## Hi, I'm Jorge
 
-- Computer Science student
+- Computer Science Student
 - Currently learning how to build and understand software and systems.
 
 
@@ -12,7 +12,7 @@
   
 ## Skills
 
-- Languages: Java, Python, C++/C
+- Languages: Java, C++, JavaScript
 - Tools: Git and GitHub
 
 ## What i'm learning now
