@@ -1,9 +1,5 @@
 ## Hi, I'm Jorge
 
-- Computer Science Student
-- Currently learning how to build and understand software and systems.
-
-
 ## About Me
 
 - Computer Science Student
@@ -12,12 +8,9 @@
   
 ## Skills
 
-- Languages: Java, C++, JavaScript
+- Languages: C++, Java, JavaScript, CSS
+- Library: React
 - Tools: Git and GitHub
 
-## What i'm learning now
-
-- New Languages: React
-- Data structures and algorithms
   
 
