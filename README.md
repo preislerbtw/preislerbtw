@@ -33,4 +33,4 @@ Interested in building creative and functional applications while continuously l
 
 ## Contact
 
-📫 Reach me via email: **jorge.preisler@gmail.com**
+📫 Reach me via email: ****
