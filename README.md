@@ -12,7 +12,7 @@ Interested in building creative and functional applications while continuously l
 
 ## Skills
 
-- **Languages:** C++, Java, JavaScript, CSS  
+- **Languages:** C++, Java, JavaScript, CSS and HTML 
 - **Library:** React  
 - **Tools:** Git and GitHub  
 - **Software Development:** Problem solving and continuous learning
