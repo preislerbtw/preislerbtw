@@ -20,11 +20,11 @@ Interested in building creative and functional applications while continuously l
 
 ## Projects
 
-### 📌 Project 1: Personal Portfolio Website
+### Project 1: Personal Portfolio Website
 
 > A portfolio website built with HTML, CSS, and JavaScript containing information about my projects, skills, and contact details.
 
-### 📌 Project 2: React Projects Collection
+### Project 2: React Projects Collection
 
 > Small projects and applications developed with React to practice components, state management, and frontend development concepts.
 
@@ -32,4 +32,4 @@ Interested in building creative and functional applications while continuously l
 
 ## Contact
 
-📫 Reach me via email: ****
+Reach me via email: ****
