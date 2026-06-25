@@ -4,16 +4,16 @@
 
 ## About Me
 
-Hi, I'm Jorge, a Computer Science student passionate about software development and web technologies.  
-Currently improving my skills through personal projects, coding practice, and studying modern development tools.  
-Interested in building creative and functional applications while continuously learning new technologies and programming concepts.
+Hi, I'm Jorge, a Computer Science student passionate about front-end development and building interfaces for the web.
+Currently improving my skills through personal projects, coding practice, and studying modern front-end tools and frameworks.
+Interested in creating visually engaging and responsive applications while continuously learning new techniques in UI development.
 
 ---
 
 ## Skills
 
 - **Languages:** C++, Java, JavaScript, TypeScript, CSS and HTML 
-- **Library:** React  
+- **Framework:** React  
 - **Tools:** Git and GitHub  
 
 ---
