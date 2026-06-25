@@ -12,7 +12,7 @@ Interested in building creative and functional applications while continuously l
 
 ## Skills
 
-- **Languages:** C++, Java, JavaScript, CSS and HTML 
+- **Languages:** C++, Java, JavaScript, TypeScript, CSS and HTML 
 - **Library:** React  
 - **Tools:** Git and GitHub  
 
@@ -23,10 +23,6 @@ Interested in building creative and functional applications while continuously l
 ### Project 1: Personal Portfolio Website
 
 > A portfolio website built with HTML, CSS, and JavaScript containing information about my projects, skills, and contact details.
-
-### Project 2: React Projects Collection
-
-> Small projects and applications developed with React to practice components, state management, and frontend development concepts.
 
 ---
 
