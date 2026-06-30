@@ -16,3 +16,6 @@ Interested in creating visually engaging and responsive applications while conti
 ---
 ## Contact
 Reach me via email: ****
+### Frontend Development
+
+![Frontend Development](https://skillicons.dev/icons?i=react,js,ts,html,css,flutter,vite)
