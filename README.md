@@ -25,10 +25,10 @@ Interested in creating visually engaging and responsive applications while conti
 ## Technologies
 
 ### Frontend Development
-![Frontend Development](https://skillicons.dev/icons?i=react,js,ts,html,css)
+![Frontend Development](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=react)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,vite)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github)
@@ -45,6 +45,4 @@ Interested in creating visually engaging and responsive applications while conti
 ## Contact
 
 Reach me via email: **youremail@example.com**
-### Frontend Development
 
-![Frontend Development](https://skillicons.dev/icons?i=react,js,ts,html,css,flutter,vite)
