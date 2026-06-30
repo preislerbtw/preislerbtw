@@ -44,5 +44,5 @@ Interested in creating visually engaging and responsive applications while conti
 
 ## Contact
 
-Reach me via email: **youremail@example.com**
+Reach me via email: **korejprf1205@gmail.com**
 
