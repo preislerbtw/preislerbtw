@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/1500x500.jpg" alt="Banner" width="100%">
+  <img src="./1500x500.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Jorge Preisler's Portfolio</h1>
@@ -45,4 +45,3 @@ Interested in creating visually engaging and responsive applications while conti
 ## Contact
 
 Reach me via email: **korejprf1205@gmail.com**
-
