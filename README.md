@@ -31,7 +31,7 @@ Interested in creating visually engaging and responsive applications while conti
 ![Backend Development](https://skillicons.dev/icons?i=java)
 
 ### DataBase
-![DataBase](https://skillicons.dev/icons?i=mySQL)
+![DataBase](https://skillicons.dev/icons?i=MySQL)
 
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,vite)
