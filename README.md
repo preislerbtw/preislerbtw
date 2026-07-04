@@ -24,8 +24,11 @@ Interested in creating visually engaging and responsive applications while conti
 
 ## Technologies
 
-### Frontend Development
+### FrontEnd Development
 ![Frontend Development](https://skillicons.dev/icons?i=js,ts,html,css)
+
+### BackEnd Development
+![Frontend Development](https://skillicons.dev/icons?i=java,c++)
 
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,vite)
