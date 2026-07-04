@@ -28,7 +28,7 @@ Interested in creating visually engaging and responsive applications while conti
 ![Frontend Development](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=react,vite,angular,vue)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,vite)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github)
