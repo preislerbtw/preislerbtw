@@ -55,7 +55,7 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="VScode"/>
+  <img src="https://img.shields.io/badge/-REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="VSCode"/>
   <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-VITE-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Git"/>
 </p>
