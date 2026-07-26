@@ -5,14 +5,11 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/https://github.com/preislerbtw">
     <img src="https://img.shields.io/badge/-ABOUT%20ME-000000?style=for-the-badge&logo=github&logoColor=white" alt="About me"/>
   </a>
-  <a href="https://t.me/SEU_TELEGRAM">
-    <img src="https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://wa.me/SEU_NUMERO">
-    <img src="https://img.shields.io/badge/-WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://x.me/https://x.com/preislerbtw">
+    <img src="https://img.shields.io/badge/-x-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,7 +27,7 @@
 
 <p align="center">
   <b>Frontend Developer</b><br/>
-  React / JavaScript / TypeScript / Next.js <br/>
+  React / JavaScript / TypeScript / <br/>
   Modern UI & clean architecture<br/>
   Strong GitHub collaboration mindset
 </p>
@@ -46,15 +43,21 @@
   <img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-VITE-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="VScode"/>
+  <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-VITE-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Git"/>
 </p>
 
 ---
