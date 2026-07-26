@@ -11,7 +11,7 @@
   <a href="https://x.com/preislerbtw">
    <img src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="linkedin.com/in/jorge-preisler2b206341b">
     <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
 </p>
