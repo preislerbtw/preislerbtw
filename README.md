@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/banner.png" width="100%" alt="banner"/>
+  <img src="./1500x500.jpg" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">Connect with me</h3>
