@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-ABOUT%20ME-000000?style=for-the-badge&logo=github&logoColor=white" alt="About me"/>
   </a>
   <a href="https://x.com/preislerbtw">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-VITE-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
 </p>
 
-<h3 align="center">DevOps Tools</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
