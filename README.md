@@ -24,13 +24,13 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-  Hello, I'm <b>Nurmuhammet Altybaev</b> — a Frontend Developer focused on building clean, scalable, and modern web applications.<br/>
+  Hello, I'm <b>Jorge Preisler</b> — a Frontend Developer focused on building clean, scalable, and modern web applications.<br/>
   I value structure, performance, and long-term maintainability over hype.
 </p>
 
 <p align="center">
   <b>Frontend Developer</b><br/>
-  React / Next.js / TypeScript<br/>
+  React / JavaScript / TypeScript / Next.js <br/>
   Modern UI & clean architecture<br/>
   Strong GitHub collaboration mindset
 </p>
@@ -39,13 +39,12 @@
 
 <h2 align="center">Technologies</h2>
 
-<h3 align="center">Core Technologies</h3>
+<h3 align="center">Technologies</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-SASS-000000?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass"/>
   <img src="https://img.shields.io/badge/-TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -56,15 +55,13 @@
   <img src="https://img.shields.io/badge/-REACT-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-VITE-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
-  <img src="https://img.shields.io/badge/-REDUX-000000?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux"/>
-  <img src="https://img.shields.io/badge/-RTK%20QUERY-000000?style=flat-square&logo=redux&logoColor=764ABC" alt="RTK Query"/>
-  <img src="https://img.shields.io/badge/-ZUSTAND-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand"/>
 </p>
 
 ---
 
-<h3 align="center">Team Collaboration</h3>
+## Projects
 
-<p align="center">
-  Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.
-</p>
+### Project 1: Personal Portfolio Website
+> A portfolio website built with HTML, CSS, and JavaScript containing information about my projects, skills, and contact details.
+
+---
