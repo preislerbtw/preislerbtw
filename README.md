@@ -5,7 +5,7 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://github.com/https://website-portfolio-smoky-three.vercel.app/">
+  <a href="https://website-portfolio-smoky-three.vercel.app/">
     <img src="https://img.shields.io/badge/-ABOUT%20ME-000000?style=for-the-badge&logo=github&logoColor=white" alt="About me"/>
   </a>
   <a href="https://x.com/preislerbtw">
