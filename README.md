@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-VITE-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">DevOps Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
