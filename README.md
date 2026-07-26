@@ -55,7 +55,7 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-VS%20CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-GIT-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
 </p>
