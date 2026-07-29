@@ -60,4 +60,6 @@
   <img src="https://img.shields.io/badge/-GIT-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
 </p>
 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+
 ---
