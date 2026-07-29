@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./1500x500.jpg" alt="Banner" width="100%">
+  <img src="./image_202624_215030.png" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">Connect with me</h3>
