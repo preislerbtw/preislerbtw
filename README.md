@@ -61,11 +61,3 @@
 </p>
 
 ---
-
-## Projects
-
-### Project 1: Personal Portfolio Website
-
-> A portfolio website built with HTML, CSS, and JavaScript containing information about my projects, skills, and contact details.
-
----
