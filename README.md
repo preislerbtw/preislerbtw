@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   Hello, I'm <b>Jorge Preisler</b> — a Frontend Developer focused on building clean, scalable, and modern web applications.<br/>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Frontend Developer</b><br/>
-  React / JavaScript / TypeScript<br/>
+  React / JavaScript / TypeScript / HTML and CSS<br/>
   Modern UI & clean architecture<br/>
   Strong GitHub collaboration mindset
 </p>
