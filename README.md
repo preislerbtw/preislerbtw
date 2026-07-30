@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Frontend Developer</b><br/>
-  React / JavaScript / TypeScript / HTML and CSS<br/>
+  React / JavaScript / TypeScript / HTML /CSS<br/>
   Modern UI & clean architecture<br/>
   Strong GitHub collaboration mindset
 </p>
