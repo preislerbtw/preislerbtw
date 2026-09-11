@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./image_202624_215030.png"
+    alt="Jorge Preisler - Frontend Developer"
+    width="100%"
+  />
+</p>
+
 <h2 align="center">About Me</h2>
 
 <p align="center">
@@ -9,10 +17,13 @@
   I value structure, performance, and long-term maintainability over hype.
 </p>
 
-<h3 align="center">Tecnologies</h3>
+<h3 align="center">Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,javascript,typescript,html,css" />
+  <img
+    src="https://skillicons.dev/icons?i=react,tailwindcss,javascript,typescript,html,css"
+    alt="Technologies"
+  />
 </p>
 
 <p align="center">
