@@ -22,7 +22,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=react,tailwindcss,javascript,typescript,html,css"
-     src="https://skillicons.dev/icons?i=java,srping-boot"
+     src="https://skillicons.dev/icons?i=java"
     alt="Technologies"
   />
 </p>
