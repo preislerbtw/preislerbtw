@@ -51,7 +51,7 @@
 <p align="center"><b>Tools</b></p>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,vite,vercel,postman"
+    src="https://skillicons.dev/icons?i=git,vite,vercel,postman,docker"
     alt="Tools"
   />
 </p>
