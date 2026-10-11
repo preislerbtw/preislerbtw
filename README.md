@@ -22,7 +22,7 @@
   I value structure, performance, and long-term maintainability over hype.
 </p>
 
-<!-- <h3 align="center">Technologies</h3>
+<h3 align="center">Technologies</h3>
 
 <p align="center"><b>Front End</b></p>
 <p align="center">
@@ -54,7 +54,7 @@
     src="https://skillicons.dev/icons?i=git,vite,vercel,postman,docker"
     alt="Tools"
   />
-</p> -->
+</p>
 
 <p align="center">
   <b>Modern UI</b> •
