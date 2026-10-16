@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img
     src="./image_202624_215030.png"
     alt="Jorge Preisler - Frontend Developer"
     width="100%"
   />
-</p>
+</p> -->
 
 <h2 align="center">About Me</h2>
 
@@ -64,3 +64,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="./image_202624_215030.png"
+    alt="Jorge Preisler - Frontend Developer"
+    width="100%"
+  />
+</p>
