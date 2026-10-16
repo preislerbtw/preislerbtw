@@ -65,6 +65,30 @@
 
 --- -->
 
+<p align="center">
+  <img
+    src="./image_202624_215030.png"
+    alt="Jorge Preisler - Frontend Developer"
+    width="100%"
+  />
+</p>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Hello, I'm <b>Jorge Preisler</b> — a Computer Science student focused on
+  building clean, scalable, and modern web applications.
+</p>
+
+<p align="center">
+  I work mainly with front-end development and I'm expanding into back-end
+  with <b>Java</b> and <b>Spring Boot</b>.
+</p>
+
+<p align="center">
+  I value structure, performance, and long-term maintainability over hype.
+</p>
+
 ## Technologies
 
 <p align="center"><b>Front End</b></p>
