@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img
     src="./image_202624_215030.png"
     alt="Jorge Preisler - Frontend Developer"
@@ -63,4 +63,48 @@
   <b>GitHub Collaboration</b>
 </p>
 
----
+--- -->
+
+## Technologies
+
+<p align="center"><b>Front End</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-252525?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="center"><b>Back End</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-252525?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-252525?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</p>
+
+<p align="center"><b>Database</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-252525?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-252525?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center"><b>Tools</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vite-252525?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vercel-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-252525?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p align="center">
+  <b>Modern UI</b> •
+  <b>Clean Architecture</b> •
+  <b>Performance</b> •
+  <b>GitHub Collaboration</b>
+</p>
