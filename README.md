@@ -102,12 +102,16 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-252525?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<p align="center"><b>Back End</b></p>
+<p align="center"><b>Back End - Learning</b></p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-252525?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-252525?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-252525?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-252525?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
+
 
 <p align="center"><b>Database</b></p>
 
@@ -123,6 +127,7 @@
   <img src="https://img.shields.io/badge/Vite-252525?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Vercel-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Postman-252525?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Insomnia-252525?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
   <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
