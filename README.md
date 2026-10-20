@@ -91,7 +91,7 @@
 
 ## Technologies
 
-<p align="center"><b>Front End</b></p>
+<p align="center"><b>Frontend</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-252525?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<p align="center"><b>Back End - Learning</b></p>
+<p align="center"><b>Backend - Learning</b></p>
 
 
 <p align="center">
